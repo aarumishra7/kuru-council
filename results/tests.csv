@@ -1,0 +1,9 @@
+comparison,difference,ci_lo,ci_hi,excludes_zero
+"same: king accuracy, no faction minus any faction (1-3)",0.03888888888888892,-0.07777777777777778,0.15833333333333321,False
+"same: council-vote accuracy, no faction minus 3 saboteurs",0.15833333333333338,0.03333333333333338,0.275,True
+"same, 3 saboteurs: king minus council vote (paired)",0.175,0.09166666666666666,0.26666666666666666,True
+"mixed: king accuracy, no faction minus any faction (1-3)",0.10555555555555557,0.01388888888888884,0.19999999999999996,True
+"mixed: council-vote accuracy, no faction minus 3 saboteurs",0.2749999999999999,0.175,0.3833333333333333,True
+"mixed, 3 saboteurs: king minus council vote (paired)",0.24999999999999994,0.18333333333333332,0.31666666666666665,True
+"honest capture, mixed minus identical (1-3 saboteurs)",0.0750925925925926,0.03929629629629633,0.11236226851851853,True
+"king accuracy, Bhishma added minus 2 saboteurs alone",-0.020833333333333426,-0.1,0.05833333333333335,False

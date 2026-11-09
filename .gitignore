@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local scratch (not part of the repository)
+_archive/
+_to_delete/
+data/test_*.jsonl

@@ -1,0 +1,9 @@
+comparison,difference,ci_lo,ci_hi,excludes_zero
+skeptic minus default: king_correct (all faction sizes),0.014583333333333282,-0.04583333333333328,0.07499999999999996,False
+skeptic minus default: council_correct (all faction sizes),-0.02916666666666662,-0.0854166666666667,0.03125,False
+skeptic minus default: flaw_surfaced (all faction sizes),0.38541666666666663,0.33125000000000016,0.43958333333333327,True
+skeptic minus default: honest_captured (all faction sizes),-0.022731481481481575,-0.057273148148148184,0.011622685185185166,False
+mixed minus default: king_correct (all faction sizes),0.03541666666666665,-0.025000000000000022,0.09166666666666667,False
+mixed minus default: council_correct (all faction sizes),0.0020833333333333814,-0.05833333333333329,0.0625,False
+mixed minus default: flaw_surfaced (all faction sizes),0.11250000000000002,0.060416666666666674,0.16458333333333336,True
+mixed minus default: honest_captured (all faction sizes),-0.013333333333333364,-0.04972685185185169,0.023384259259259244,False
